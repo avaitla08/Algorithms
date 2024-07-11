@@ -1,7 +1,9 @@
 import edu.princeton.cs.algs4.StdOut;
+
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 // This is coursera project 2
+// This is a Dequeue and Randomized Queues
 
 public class Deque<Item> implements Iterable<Item> {
 
